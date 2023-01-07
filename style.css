@@ -1,0 +1,10 @@
+body{
+  background-size: cover;
+}
+
+.categoria{
+  background-color: aquamarine;
+  font-size: 30px;
+  border-radius: 20px;
+ 
+}

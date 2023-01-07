@@ -1,0 +1,13 @@
+body{
+  background-size: cover;
+}
+
+.voltar{
+  font-size: 30px;
+  margin-left:100px;
+}
+
+canva{
+  box-shadow: 10px, 10px, 10px, blue;
+  border-radius: 20px;
+}
